@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "658563163920",
+    "firebase_url": "https://admin-5e0e7-default-rtdb.firebaseio.com",
+    "project_id": "admin-5e0e7",
+    "storage_bucket": "admin-5e0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658563163920:android:dd2cf56cfc594d7f0da795",
+        "android_client_info": {
+          "package_name": "com.example.bitmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658563163920-6gvpn8ct1sfuvtluadt21mbqccohq7sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0znBfUOAPktpTqrTmpccyo1xyEsm-u2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658563163920-6gvpn8ct1sfuvtluadt21mbqccohq7sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658563163920:android:b654983ce2c626ca0da795",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658563163920-6gvpn8ct1sfuvtluadt21mbqccohq7sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0znBfUOAPktpTqrTmpccyo1xyEsm-u2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658563163920-6gvpn8ct1sfuvtluadt21mbqccohq7sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658563163920:android:066bfff0aa72d1ae0da795",
+        "android_client_info": {
+          "package_name": "com.example.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658563163920-6gvpn8ct1sfuvtluadt21mbqccohq7sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0znBfUOAPktpTqrTmpccyo1xyEsm-u2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658563163920-6gvpn8ct1sfuvtluadt21mbqccohq7sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
